@@ -1,5 +1,3 @@
-![](https://github.com/cheungyik/rust-lib-template/workflows/build/badge.svg)
-
 # {{ project-name }}
 
 description of the crate
